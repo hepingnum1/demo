@@ -34,7 +34,7 @@ import java.util.List;
  * Created by Administrator on 2016/8/8 0008.
  */
 public class MainActivity extends Activity {
-
+     int a=0;
     //地图控件
     public MapView mapView = null;
     //百度地图对象
